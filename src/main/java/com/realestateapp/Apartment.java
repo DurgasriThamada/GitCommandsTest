@@ -6,6 +6,7 @@ public class Apartment {
 	
 	private double area;
 	private BigDecimal price;
+	private int id;
 	
 	public Apartment(double area, BigDecimal price) {
 		super();
